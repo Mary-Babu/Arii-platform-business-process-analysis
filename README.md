@@ -2,84 +2,116 @@ Arii Platform Optimization & Business Process Analysis
 
 Project Overview
 
-This client-based capstone project was completed for Arii Realtors, a real estate technology platform focused on lead generation, client engagement, and business growth solutions for realtors.
+This client-based capstone consulting project was completed for Arii Realtors, a real estate technology platform that provides lead generation, client engagement, and business growth solutions for real estate professionals.
 
-The objective was to evaluate the current platform, identify usability and business process gaps, and propose future-state improvements to enhance customer experience, lead management, platform functionality, and operational efficiency.
+The project focused on evaluating Arii's current platform, identifying business process inefficiencies, analyzing user experience challenges, and developing future-state recommendations to improve customer engagement, lead management, operational efficiency, and overall platform effectiveness.
 
-Client: Arii Realtors
+Client
+
+Arii Realtors
 
 Business Problem
 
-The platform faced several challenges related to:
+Arii's platform faced several challenges related to:
 
-- Website usability
-- Customer engagement
-- Navigation complexity
-- Lead management processes
-- Mobile user experience
-- Customer onboarding
-- Content and SEO strategy
+* Website usability and navigation
+* Customer engagement and retention
+* Lead management processes
+* Customer onboarding experience
+* Mobile user experience
+* SEO and content strategy
+* Platform scalability and process efficiency
 
-The project focused on identifying these gaps and developing practical recommendations to improve overall business performance.
+The objective was to identify gaps between the current state and desired future state and provide actionable recommendations to support digital transformation initiatives.
 
 Methodology
 
-- As-Is Analysis
-- Gap Analysis
-- Future-State Process Design
-- Competitor Benchmarking
-- Business Process Modeling
-- Customer Journey Analysis
-- SWOT Analysis
-- Implementation Planning
+The project was completed using:
+
+* As-Is Analysis
+* Gap Analysis
+* Future-State Process Design
+* Competitor Benchmarking
+* SWOT Analysis
+* Business Process Modeling
+* Customer Journey Analysis
+* Implementation Planning
 
 Key Deliverables
 
 As-Is Analysis
 
-Evaluated the current website structure, navigation, content strategy, user experience, and customer journey.
+Evaluated the current website structure, user experience, navigation flow, content strategy, and customer engagement mechanisms.
 
 Gap Analysis
 
-Identified differences between the current state and desired future state and documented business improvement opportunities.
+Identified operational, functional, and user experience gaps between the current platform and the desired future state.
 
 Future-State Process Design
 
-Created optimized process maps and workflow recommendations to improve efficiency and customer experience.
+Developed optimized process maps and business workflows designed to improve efficiency, customer experience, and lead conversion.
 
 Strategic Recommendations
 
-Developed recommendations covering:
+Recommendations were developed across multiple business areas:
 
-- Lead Management
-- CRM Integration
-- Customer Support
-- SEO Strategy
-- Mobile Optimization
-- Interactive Tools
-- Analytics Dashboards
-- User Engagement Improvements
+* Homepage Optimization
+* Product Page Improvements
+* Lead Management Dashboard
+* CRM Integration
+* Customer Support & Onboarding
+* Mobile Optimization
+* Interactive Tools
+* SEO & Content Strategy
+* Analytics & Reporting
 
-Tools Used
+Tools & Technologies
 
-- Camunda Modeler
-- Milanote
-- Microsoft Office
-- Business Process Analysis Techniques
-- SWOT Analysis
-- Process Mapping
+* Camunda Modeler
+* Milanote
+* Microsoft Office Suite
+* Business Process Analysis Frameworks
+* SWOT Analysis
+* Gap Analysis Techniques
+* Process Mapping Methodologies
 
 Skills Demonstrated
 
-- Business Analysis
-- Requirements Gathering
-- Gap Analysis
-- Process Improvement
-- Process Mapping
-- Stakeholder-Focused Recommendations
-- Digital Transformation Strategy
-- Business Documentation
+* Business Analysis
+* Requirements Gathering
+* Gap Analysis
+* Process Mapping
+* Stakeholder Analysis
+* Digital Transformation Strategy
+* Process Improvement
+* Business Documentation
+* Strategic Planning
+* Consulting & Recommendations
+
+Project Visualizations
+
+Current State Process Map
+
+<img width="1354" height="657" alt="current_state_process_map" src="https://github.com/user-attachments/assets/be677faf-9ea3-4ef4-b307-26796331247c" />
+
+
+Future State Process Map
+
+<img width="762" height="544" alt="future_state_process_map" src="https://github.com/user-attachments/assets/3ca28821-7de8-48db-8609-67c8adfa5970" />
+
+
+Enhanced Future State Design
+
+<img width="775" height="489" alt="Enhanced_process_map" src="https://github.com/user-attachments/assets/e22eff42-c3c1-402c-852c-0d9326aadcc0" />
+
+
+Gap Analysis & Recommendations
+
+<img width="835" height="322" alt="Gap_analysis_table" src="https://github.com/user-attachments/assets/2f9031f2-bfd1-4ab1-89c4-e42c7b4348d2" />
+
 
 Project Outcome
 
-Delivered a comprehensive business process analysis and digital transformation roadmap designed to improve user engagement, streamline navigation, enhance lead management capabilities, and support future growth initiatives.
+Delivered a comprehensive business process improvement roadmap that identified platform limitations, proposed future-state solutions, and provided strategic recommendations to enhance user experience, lead management capabilities, customer engagement, and long-term business growth.
+
+The project demonstrated the application of business analysis methodologies, process improvement techniques, and stakeholder-focused solution design within a real-world client environment.
